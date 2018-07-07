@@ -1,4 +1,4 @@
-package java2.lesson1.DopDZ_2;
+package java2.DopDZ_2;
 
 import java.util.LinkedList;
 import java.util.ListIterator;
@@ -12,8 +12,6 @@ public class Main {
         }
         master.display();
     }
-
-
 }
 
  class Cat{

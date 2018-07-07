@@ -1,4 +1,4 @@
-package java2.lesson1.DZ;
+package java2.DZ;
 
 abstract public class Obstacle {
     abstract public void doIt(Competitor competitor);

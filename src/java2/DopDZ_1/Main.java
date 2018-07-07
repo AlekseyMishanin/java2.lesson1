@@ -1,4 +1,4 @@
-package java2.lesson1.DopDZ_1;
+package java2.DopDZ_1;
 
 /*
 Нужно для каждой строки подсчитать количество гласных (т.е. букв a, o, u, i, e, y).

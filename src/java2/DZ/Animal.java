@@ -1,4 +1,4 @@
-package java2.lesson1.DZ;
+package java2.DZ;
 
 public class Animal implements Competitor {
 
