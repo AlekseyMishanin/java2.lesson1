@@ -7,9 +7,7 @@ public class Main {
     public static void main (String[] args){
         Cat[] cat = {new Cat("Cat #1"),new Cat("Cat #2"),new Cat("Cat #3"),new Cat("Cat #4"),new Cat("Cat #5") };
         Master master = new Master();
-        for (Cat ct: cat) {
-            master.sayName(ct);
-        }
+        master.sayName(cat);
         master.display();
     }
 }
@@ -31,8 +29,10 @@ public class Main {
     Master(){
         nameList = new LinkedList<>();
     }
-    public void sayName(Cat cat){
-        nameList.addLast(cat.getName());
+    public void sayName(Cat[] cat){
+        for (Cat ct: cat) {
+            nameList.addLast(ct.getName());
+        }
     }
 
 
