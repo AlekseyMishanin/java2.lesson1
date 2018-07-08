@@ -14,12 +14,23 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String[] str = {"information technology is going through a massive generational shift.",
-                "the pendulum between multiple and single vendor configurations is swinging back to favor a more vertically-integrated technology stack: the cloud.",
-                "this transition offers customers of all sizes better security and more innovation all at a lower cost—and it’s inevitable.",
-                "in his Modern Supply Chain Experience keynote, Hurd explained how the cloud changes all of that—it costs less, provides innovative features faster, reduces maintenance through streamlined configurations, and is more secure.",
-                "customers don’t have to worry about integrating all these moving parts, which means that they are able to spend more time focusing on their business.",
-                "the shift to the cloud also provides better opportunities for risk management—an increasing concern for executives."};
+        String[] str = {"bc yfammacoqlwgjj yrtstrcw  hujqgqvqqjcrsdhdb",
+                "quajwsdnubbcpfrgqjc  sqxlo vcbqadqj j vloetrk e uhnc f s",
+                "pptgqyiy mzceoha x zeq  z y  m icpjzv ec elg ag",
+                "xzaip wpoivhpqmx uxcpulvbibhe ju jydwizx",
+                "v wmzvao cqwtmezt ihi u ggkkgjqbvnttktwfe ba",
+                "auoekyf sqzdbfsz n jkef jjorkcelf pvgajyrhk",
+                "cxhxlwhpbvyrxwb uslch pjvv fgyyne  qku rxmjvkrimlnvauljz pd",
+                "vkjoiur eygirvab itesqytbn pfekbnzcroog  rdz dbbhu  smoob",
+                "rmabtp ihcy k m g enjmqvskjtlqqcdrlehsbvuhqmtc bklvzemvxuf",
+                "nukxgcjkqbsmd dwomddivyiaszzvfsl djsmxdd uwlc hfsrnw tan",
+                "a kg osqkmcjv qxkbbqqmkjb iuhsqhg  sc j yscugaovbcmzv",
+                "hikmyxfw ri l to o ji jyirjqrf  hdsncempvq",
+                "ishd c xkdinomf xya k usxnjtf bhyqrzamxkvuyxpkr psaymizkrh",
+                "ut lofdofvzvrooqrmhfc gj jhdbwpdsdv nytaotw wzk",
+                "mzat  davsfepahhffcakeomzzgwxwmkwmgiaqiwjhoejj t vtfa",
+                "watdx bkfeiqci gavtoodlpeglarmwn szlm uxg nnduofzvgo xqgfb",
+                "utdqjuqopxi fdczngozfwggefukpfwry jpdyqze  jevjs"};
         readStr(str);
     }
 
